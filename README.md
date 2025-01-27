@@ -4,7 +4,7 @@ Build A Basic MP3 Player using the technologies of HTML5, CSS3 and JavaScript.
 
 ## Technologies
 
-Uses HTML5, CSS3 and JavaScript.  This project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous and shuffle functionalities.
+Uses HTML5, CSS3 and JavaScript.  This project covers fundamental concepts such as handling audio playback, managing a playlist, implementing play, pause, next, previous, and previous functionalities and dynamically update user interface based on the current song.
 
 ## Deployment
 
@@ -14,4 +14,4 @@ Uses HTML5, CSS3 and JavaScript.  This project covers fundamental concepts such 
 
 ### Acknowledgements
 
-[FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+[FreeCodeCamp](https://www.freecodecamp.org)
